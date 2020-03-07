@@ -1,0 +1,31 @@
+{
+	"details":{
+		"image":"Koala.jpg",
+		"Name":"Prathyusha",
+		"Email":"prathyushadoddi7@gmail.com",
+		"Contact":"8790744596",
+		"Address":"vizag"
+	},
+	"details1":{
+		"info":"aquire skills",
+		"academics":"graduation"
+	},
+	"education":{
+		"institute":"vignan",
+		"degree":"Btech",
+		"percentage":"85",
+		"passoutyear":"2022"
+	},
+	"education":{
+		"institute":"chaitanya",
+		"degree":"inter",
+		"percentage":"94",
+		"passoutyear":"2018"
+	},
+	"education":{
+		"institute":" sree vignan",
+		"degree":"tenth",
+		"percentage":"97",
+		"passoutyear":"2016"
+	}
+}
